@@ -126,4 +126,4 @@ Denis Barbosa da Silva</a>
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito por Gustavo Freitas Dias👋🏽 [Entre em contato!](https://www.linkedin.com/in/denis-b-silva/)
+Feito por Denis Barbosa da Silva👋🏽 [Entre em contato!](https://www.linkedin.com/in/denis-b-silva/)
