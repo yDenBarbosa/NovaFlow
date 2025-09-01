@@ -112,7 +112,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://www.linkedin.com/in/denis-b-silva/">
-Gustavo Freitas Dias</a>
+Denis Barbosa da Silva</a>
  <br />
  
 [![Gmail Badge](https://img.shields.io/badge/-denispfgfut@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=denispfgfut@gmail.com)](mailto:denispfgfut@gmail.com)
